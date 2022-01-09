@@ -1,0 +1,16 @@
+:root {
+    --white: #fff;
+    --dark: #000;
+    --primary-30: #fefdfd;
+    --primary-50: #f8f8f8;
+    --primary-60: #ebebeb;
+    --primary-70: #dfdfdf;
+    --primary-90: #30393b;
+    --secondary-30: #eef4f5;
+    --secondary-50: #1290a4;
+    --secondary-70: #108193;
+
+    /* Text */
+    --text-dark: #1D263A;
+    --text-light: #fff;
+}
